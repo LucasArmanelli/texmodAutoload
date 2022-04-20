@@ -7,7 +7,7 @@ default .ini
 WinWaitDelay=200
 texmod=D:\TexMod\Texmod.exe
 exe=D:\Games\Mass Effect 2\Binaries\MassEffect2.exe
-AutoExec=0
+AutoExec=1
 
 [Mods]
 mod1=D:\TexMod\Mass Effect 2\No Selection Box.tpf
